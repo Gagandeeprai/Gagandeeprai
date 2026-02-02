@@ -17,7 +17,10 @@
 
 <h2 align="center"><em>About Me</em></h2>
 
-<p align="center">
+<div align="center">
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="150" align="right" style="margin-right: 50px;" />
+
+<p align="left" style="margin-left: 50px;">
   📍 <b>Location:</b> India 🇮🇳<br/>
   🎓 <b>Education:</b> Information Science Engineering Student<br/>
   🔭 <b>Current Focus:</b> Next.js 16, React 19, Systems Programming in C<br/>
@@ -25,6 +28,8 @@
   ☕ <b>Fun Fact:</b> Turning coffee into code since 2023<br/>
   🚀 <b>Philosophy:</b> Build, Learn, Iterate, Repeat
 </p>
+</div>
+<br clear="all" />
 
 <br>
 
