@@ -170,16 +170,8 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gagandeeprai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
-
-<div align="center">
-
-### 📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagandeeprai&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github&cache_seconds=86400)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gagandeeprai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_seconds=86400)
 
 </div>
 
@@ -187,17 +179,7 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagandeeprai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=450)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gagandeeprai&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagandeeprai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=450&cache_seconds=86400)
 
 </div>
 
