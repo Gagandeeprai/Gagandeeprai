@@ -11,30 +11,12 @@
 
 </div>
 
-```typescript
-const gagandeeprai = {
-    name: "Gagandeeprai",
-    location: "India 🇮🇳",
-    education: {
-        degree: "Information Science Engineering",
-        university: "Currently Pursuing",
-        status: "Student & Developer"
-    },
-    currentFocus: [
-        "Next.js 16 & React 19",
-        "Systems Programming in C",
-        "Mobile Development with React Native"
-    ],
-    interests: [
-        "Full Stack Web Development",
-        "Machine Learning & AI",
-        "Low-Level Systems Programming",
-        "Open Source Contribution"
-    ],
-    funFact: "Turning coffee into code since 2023 ☕",
-    lifePhilosophy: "Build, Learn, Iterate, Repeat 🚀"
-};
-```
+- 📍 **Location**: India 🇮🇳
+- 🎓 **Education**: Information Science Engineering Student
+- 🔭 **Current Focus**: Next.js 16, React 19, Systems Programming in C
+- 💻 **Interests**: Full Stack Web Dev, ML & AI, Low-Level Systems, Open Source
+- ☕ **Fun Fact**: Turning coffee into code since 2023
+- 🚀 **Philosophy**: Build, Learn, Iterate, Repeat
 
 ---
 
