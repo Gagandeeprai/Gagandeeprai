@@ -170,8 +170,10 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github&cache_seconds=86400)
-![GitHub Streak](https://streak-stats.demolab.com?user=Gagandeeprai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<!-- Switched to github-profile-summary-cards for better stability -->
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagandeeprai&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gagandeeprai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_bust=1)
 
 </div>
 
@@ -179,7 +181,7 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagandeeprai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=450&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagandeeprai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=450&cache_bust=1)
 
 </div>
 
