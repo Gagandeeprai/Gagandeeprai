@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gagandeeprai&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Systems%20Programming%20Enthusiast&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Gagandeeprai&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=ISE%20Undergrad%20%7C%20Systems%20Programming%20Enthusiast&descAlignY=70&descSize=20" />
 
 </div>
 
@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gagandeeprai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-gagandeeprai.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gagandeepputtur@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Gagandeeprai&label=Profile%20Views&color=58a6ff&style=flat-square)](https://github.com/Gagandeeprai)
 
 </div>
 
