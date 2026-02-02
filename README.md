@@ -197,6 +197,14 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 </div>
 
+<div align="center">
+<br/>
+
+<!-- Restored Activity Graph -->
+<img src="https://activity-graph.herokuapp.com/graph?username=Gagandeeprai&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Activity Graph"/>
+
+</div>
+
 ---
 
 ## 🏆 GitHub Achievements
