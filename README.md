@@ -5,19 +5,11 @@
 
 </div>
 
----
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gagandeeprai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-gagandeeprai.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gagandeepputtur@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👨‍💻+About+Me;Turning+coffee+into+code...;Building+scalable+systems..." alt="Typing SVG" />
 
 </div>
-
----
-
-## 👨‍💻 About Me
 
 ```typescript
 const gagandeeprai = {
