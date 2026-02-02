@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gagandeeprai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-gagandeeprai.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gagandeepputtur@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Gagandeeprai&label=Profile%20Views&color=58a6ff&style=flat-square)](https://github.com/Gagandeeprai)
 
 </div>
 
@@ -170,26 +171,45 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 <div align="center">
 
-<!-- Switched to github-profile-summary-cards for better stability -->
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagandeeprai&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Gagandeeprai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_bust=1)
+<!-- Using GitHub Profile Summary Cards - Most Reliable Service -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagandeeprai&theme=tokyonight" alt="Contribution Graph"/>
 
 </div>
 
 <div align="center">
 
-### 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagandeeprai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=450&cache_bust=1)
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gagandeeprai&theme=tokyonight" alt="GitHub Stats"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gagandeeprai&theme=tokyonight" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-### 📈 Contribution Activity
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gagandeeprai&theme=tokyonight" alt="Repos per Language"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gagandeeprai&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Gagandeeprai&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)
+</div>
+
+<div align="center">
+<br/>
+
+<!-- Using Reliable Streak Service -->
+<img src="https://streak-stats.demolab.com?user=Gagandeeprai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+| 🎯 Metric | 📊 Status |
+|-----------|-----------|
+| **🔥 Contribution Streak** | Building daily |
+| **💻 Active Repos** | Multiple projects |
+| **🌟 Focus Areas** | Full Stack • ML • Systems |
+| **📚 Learning** | Next.js 16 • React Native • C |
 
 </div>
 
@@ -197,9 +217,9 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 <div align="center">
 
-### 💭 Developer Wisdom
+### 💭 Developer Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
 </div>
 
@@ -207,11 +227,28 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 <div align="center">
 
-### 📫 Let's Connect!
+## 🌐 Let's Connect!
 
 **Open to collaborations, interesting projects, and tech discussions!**
 
-<img src="https://komarev.com/ghpvc/?username=Gagandeeprai&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+<br/>
+
+<a href="https://linkedin.com/in/gagandeeprai" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:gagandeepputtur@gmail.com">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Gagandeeprai" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**⭐ From [Gagandeeprai](https://github.com/Gagandeeprai)**
 
 **Thanks for visiting! Let's build something amazing together 🚀**
 
