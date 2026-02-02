@@ -200,7 +200,7 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 <div align="center">
 <br/>
 
-<!-- Restored Activity Graph - Simplified for Stability -->
+<!-- Restored Activity Graph -->
 <img src="https://activity-graph.herokuapp.com/graph?username=Gagandeeprai&theme=tokyo-night" alt="Activity Graph"/>
 
 </div>
@@ -212,7 +212,7 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 <div align="center">
 
 | 🎯 Metric | 📊 Status |
-|-----------|-----------|
+| :---: | :---: |
 | **🔥 Contribution Streak** | Building daily |
 | **💻 Active Repos** | Multiple projects |
 | **🌟 Focus Areas** | Full Stack • ML • Systems |
@@ -253,7 +253,11 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gagandeeprai&label=Profile%20Views&color=58a6ff&style=flat-square)
+
+<br/>
 
 **⭐ From [Gagandeeprai](https://github.com/Gagandeeprai)**
 
@@ -262,4 +266,4 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=100&section=footer" />
