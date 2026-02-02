@@ -160,12 +160,12 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=false&card_width=400)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gagandeeprai&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff&card_width=420)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gagandeeprai&theme=dark&background=000000&hide_border=false&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagandeeprai&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Gagandeeprai&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
