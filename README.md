@@ -1,58 +1,74 @@
-<div align="center">
+<h1 align="center">Gagandeeprai</h1>
+<h3 align="center">ISE Undergrad | Systems Programming Enthusiast</h3>
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Gagandeeprai&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=ISE%20Undergrad%20%7C%20Systems%20Programming%20Enthusiast&descAlignY=70&descSize=20" />
+<p align="center">
+  <a href="https://linkedin.com/in/gagandeeprai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:gagandeepputtur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-</div>
+<br>
 
-<div align="center">
+<h2 align="center"><em>About Me</em></h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👨‍💻+About+Me" alt="Typing SVG" />
+<p align="center">
+  📍 <b>Location:</b> India 🇮🇳<br/>
+  🎓 <b>Education:</b> Information Science Engineering Student<br/>
+  🔭 <b>Current Focus:</b> Next.js 16, React 19, Systems Programming in C<br/>
+  💻 <b>Interests:</b> Full Stack Web Dev, ML & AI, Low-Level Systems, Open Source<br/>
+  ☕ <b>Fun Fact:</b> Turning coffee into code since 2023<br/>
+  🚀 <b>Philosophy:</b> Build, Learn, Iterate, Repeat
+</p>
 
-</div>
+<br>
 
-- 📍 **Location**: India 🇮🇳
-- 🎓 **Education**: Information Science Engineering Student
-- 🔭 **Current Focus**: Next.js 16, React 19, Systems Programming in C
-- 💻 **Interests**: Full Stack Web Dev, ML & AI, Low-Level Systems, Open Source
-- ☕ **Fun Fact**: Turning coffee into code since 2023
-- 🚀 **Philosophy**: Build, Learn, Iterate, Repeat
+<h2 align="center"><em>Technologies</em></h2>
 
----
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-## 🛠️ Technologies
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<h3 align="center">Backend & ML</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-### Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-### Backend & ML
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<br>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📌 Featured Projects
+<h2 align="center"><em>Featured Projects</em></h2>
 
 <table>
 <tr>
@@ -138,99 +154,49 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 </tr>
 </table>
 
----
+<br>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- Using GitHub Profile Summary Cards - Most Reliable Service -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagandeeprai&theme=tokyonight" alt="Contribution Graph"/>
-
-</div>
+<h2 align="center"><em>Statistics</em></h2>
 
 <div align="center">
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gagandeeprai&theme=tokyonight" alt="GitHub Stats"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gagandeeprai&theme=tokyonight" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gagandeeprai&theme=tokyonight" alt="Repos per Language"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gagandeeprai&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-
-</div>
-
-<div align="center">
-<br/>
-
-<!-- Using Reliable Streak Service -->
-<img src="https://streak-stats.demolab.com?user=Gagandeeprai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-
-</div>
-
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-| 🎯 Metric | 📊 Status |
-| :---: | :---: |
-| **🔥 Contribution Streak** | Building daily |
-| **💻 Active Repos** | Multiple projects |
-| **🌟 Focus Areas** | Full Stack • ML • Systems |
-| **📚 Learning** | Next.js 16 • React Native • C |
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Developer Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Let's Connect!
-
-**Open to collaborations, interesting projects, and tech discussions!**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=false&card_width=400)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gagandeeprai&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff&card_width=420)
 
 <br/>
 
-<a href="https://linkedin.com/in/gagandeeprai" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:gagandeepputtur@gmail.com">
-<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Gagandeeprai" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gagandeeprai&label=Profile%20Views&color=58a6ff&style=flat-square)
-
-<br/>
-
-**⭐ From [Gagandeeprai](https://github.com/Gagandeeprai)**
-
-**Thanks for visiting! Let's build something amazing together 🚀**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagandeeprai&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=100&section=footer" />
+<br>
+
+<h2 align="center"><em>Let's Connect!</em></h2>
+
+<p align="center">
+  <b>Open to collaborations, interesting projects, and tech discussions!</b>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gagandeeprai" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:gagandeepputtur@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gagandeeprai" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gagandeeprai&label=Profile%20Views&color=000000&style=flat-square" />
+</p>
+
+<p align="center">
+  <b>⭐ From <a href="https://github.com/Gagandeeprai">Gagandeeprai</a></b><br/>
+  <b>Thanks for visiting! Let's build something amazing together 🚀</b>
+</p>
