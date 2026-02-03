@@ -36,7 +36,7 @@
 
 ## 👨💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif">
+<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/9nKcOUBEhcQAAAAC/cat-roll.gif">
 
 ```python
 class Developer:
