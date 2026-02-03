@@ -188,7 +188,7 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 <br/>
 
 <!-- Using Reliable Streak Service -->
-<img src="https://streak-stats.demolab.com?user=Gagandeeprai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Gagandeeprai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
 </div>
 
