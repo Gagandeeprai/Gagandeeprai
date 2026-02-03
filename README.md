@@ -1,124 +1,172 @@
-<pre>
-> whoami
+<div align="center">
 
-GAGANDEEP RAI
-ISE UNDERGRAD | SYSTEMS PROGRAMMING
-
-> _
-</pre>
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██████╗  █████╗  ██████╗  █████╗ ███╗   ██╗██████╗ ███████╗   ║
+║  ██╔════╝ ██╔══██╗██╔════╝ ██╔══██╗████╗  ██║██╔══██╗██╔════╝   ║
+║  ██║  ███╗███████║██║  ███╗███████║██╔██╗ ██║██║  ██║█████╗     ║
+║  ██║   ██║██╔══██║██║   ██║██╔══██║██║╚██╗██║██║  ██║██╔══╝     ║
+║  ╚██████╔╝██║  ██║╚██████╔╝██║  ██║██║ ╚████║██████╔╝███████╗   ║
+║   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝   ║
+║                                                                  ║
+║              ISE UNDERGRAD | SYSTEMS PROGRAMMING                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
-  <a href="https://linkedin.com/in/gagandeeprai" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/gagandeeprai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
   </a>
   <a href="mailto:gagandeepputtur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://github.com/Gagandeeprai" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
 </p>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<h2 align="center"><em>About Me</em></h2>
+</div>
+
+## 👨💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif">
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Gagandeep Rai"
+        self.location = "India 🇮🇳"
+        self.education = "Information Science Engineering"
+        self.current_focus = [
+            "Next.js 16",
+            "React 19", 
+            "Systems Programming in C"
+        ]
+        self.interests = [
+            "Full Stack Web Development",
+            "Machine Learning & AI",
+            "Low-Level Systems",
+            "Open Source Contributions"
+        ]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = Developer()
+me.say_hi()
+```
+
+<br clear="all"/>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="200" align="right" style="margin-right: 50px;" />
 
-<p align="left" style="margin-left: 50px;">
-  📍 <b>Location:</b> India 🇮🇳<br/>
-  🎓 <b>Education:</b> Information Science Engineering Student<br/>
-  🔭 <b>Current Focus:</b> Next.js 16, React 19, Systems Programming in C<br/>
-  💻 <b>Interests:</b> Full Stack Web Dev, ML & AI, Low-Level Systems, Open Source<br/>
-  ☕ <b>Fun Fact:</b> Turning coffee into code since 2023<br/>
-  🚀 <b>Philosophy:</b> Build, Learn, Iterate, Repeat
-</p>
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🎨 Frontend Development
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### ⚙️ Backend & ML
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 </div>
-<br clear="all" />
 
-<br>
+---
 
-<h2 align="center"><em>Technologies</em></h2>
+## 🚀 Featured Projects
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-<h3 align="center">Frontend Development</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-<h3 align="center">Backend & ML</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-<h3 align="center">Tools & Platforms</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<br>
-
-<h2 align="center"><em>Featured Projects</em></h2>
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Phishing Detector](https://github.com/Gagandeeprai/Phishing-detector)
+<div align="center">
+<h3>🛡️ Phishing Detector</h3>
 
-**ML-Powered Browser Extension**
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gagandeeprai/Phishing-detector)
 
-A real-time phishing detection system combining machine learning with a sleek browser extension. The Python backend leverages **Scikit-learn** and **FastAPI** for URL classification, while the Chrome extension built with **React** and **Vite** provides instant security warnings.
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-**Tech Stack:**
-- Python • FastAPI • Scikit-learn
-- React • Vite • Chrome Extension API
+**ML-Powered Browser Extension for Real-Time Threat Detection**
 
-**Highlights:**
-- ✅ Real-time URL analysis
-- ✅ ML-based threat detection
-- ✅ Instant browser notifications
-- ✅ Lightweight & fast
+A sophisticated phishing detection system that combines machine learning with modern web technologies. The Python backend uses **Scikit-learn** and **FastAPI** for intelligent URL classification, while the sleek Chrome extension built with **React** and **Vite** provides instant security warnings.
+
+</div>
+
+**🔥 Key Features:**
+- ⚡ Real-time URL analysis
+- 🤖 ML-based threat detection
+- 🔔 Instant browser notifications
+- 🪶 Lightweight & blazing fast
+
+**💡 Tech Stack:**
+```
+Python • FastAPI • Scikit-learn
+React • Vite • Chrome Extension API
+```
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [CLI Antivirus](https://github.com/Gagandeeprai/cli-antivirus)
+<div align="center">
+<h3>⚡ CLI Antivirus</h3>
 
-**High-Performance File Scanner**
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gagandeeprai/cli-antivirus)
 
-A multithreaded file scanner engineered in **C** for maximum performance. Features a custom **Ncurses** terminal UI and optimized scanning using **Pthreads** for efficient resource utilization.
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
-**Tech Stack:**
-- C • Pthreads • Ncurses
-- Makefile • Linux
+**High-Performance Multithreaded File Scanner**
 
-**Highlights:**
-- ✅ Multithreaded scanning
-- ✅ Custom TUI interface
-- ✅ Low resource footprint
-- ✅ Retrowave aesthetics
+A blazingly fast file scanner engineered in pure **C** for maximum performance. Features a custom **Ncurses** terminal UI and optimized multithreaded scanning using **Pthreads** for efficient resource utilization.
+
+</div>
+
+**🔥 Key Features:**
+- 🚄 Multithreaded scanning engine
+- 🎨 Custom TUI interface
+- 💾 Minimal resource footprint
+- 🌆 Retrowave aesthetics
+
+**💡 Tech Stack:**
+```
+C • Pthreads • Ncurses
+Makefile • Linux
+```
 
 </td>
 </tr>
@@ -126,46 +174,66 @@ A multithreaded file scanner engineered in **C** for maximum performance. Featur
 <tr>
 <td width="50%" valign="top">
 
-### 🌌 [Panchanga App](https://github.com/Gagandeeprai/panchanga-app)
+<div align="center">
+<h3>🌌 Panchanga App</h3>
 
-**Vedic Astronomy Assistant**
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gagandeeprai/panchanga-app)
 
-A mobile application built with **Expo** and **React Native** that calculates daily Tithi, Nakshatra, Yoga, and sunrise/sunset times based on astronomical calculations.
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
-**Tech Stack:**
-- React Native • Expo
-- TypeScript • Astronomy Engine
+**Vedic Astronomy Mobile Assistant**
 
-**Highlights:**
-- ✅ Daily Panchanga calculations
-- ✅ Location-based timings
-- ✅ Clean, intuitive UI
-- ✅ Cross-platform support
+A beautiful mobile application built with **Expo** and **React Native** that calculates daily Tithi, Nakshatra, Yoga, and sunrise/sunset times based on accurate astronomical calculations.
+
+</div>
+
+**🔥 Key Features:**
+- 📅 Daily Panchanga calculations
+- 📍 Location-based timings
+- 🎯 Clean, intuitive UI
+- 📱 Cross-platform support
+
+**💡 Tech Stack:**
+```
+React Native • Expo
+TypeScript • Astronomy Engine
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 [Modern Portfolio](https://github.com/Gagandeeprai/Portfolio)
+<div align="center">
+<h3>🎨 Modern Portfolio</h3>
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gagandeeprai/Portfolio)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
 **Personal Developer Showcase**
 
-A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion**, featuring smooth animations, responsive design, and optimized performance.
+A sleek, modern portfolio website built with cutting-edge technologies **Next.js 16** and **Framer Motion**, featuring buttery smooth animations, responsive design, and optimized performance.
 
-**Tech Stack:**
-- Next.js 16 • React 19
-- Tailwind CSS • Framer Motion
+</div>
 
-**Highlights:**
-- ✅ Smooth page transitions
-- ✅ Responsive design
-- ✅ Dark mode optimized
-- ✅ SEO friendly
+**🔥 Key Features:**
+- 🎬 Smooth page transitions
+- 📱 Fully responsive design
+- 🌙 Dark mode optimized
+- 🚀 SEO friendly
+
+**💡 Tech Stack:**
+```
+Next.js 16 • React 19
+Tailwind CSS • Framer Motion
+```
 
 </td>
 </tr>
 </table>
 
-<br>
+</div>
+
+---
 
 <h2 align="center"><em>📊 GitHub Statistics</em></h2>
 
@@ -199,34 +267,39 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 </div>
 
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+**Open to collaborations, interesting projects, and tech discussions!**
+
 <br>
 
-<h2 align="center"><em>Let's Connect!</em></h2>
+<a href="https://linkedin.com/in/gagandeeprai" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:gagandeepputtur@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Gagandeeprai" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<p align="center">
-  <b>Open to collaborations, interesting projects, and tech discussions!</b>
-</p>
+<br><br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/gagandeeprai" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:gagandeepputtur@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Gagandeeprai" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Gagandeeprai&label=Profile%20Views&color=000000&style=flat-square" alt="Profile views" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gagandeeprai&label=Profile%20Views&color=000000&style=flat-square" />
-</p>
+<br><br>
 
-<p align="center">
-  <b>⭐ From <a href="https://github.com/Gagandeeprai">Gagandeeprai</a></b><br/>
-  <b>Thanks for visiting! Let's build something amazing together 🚀</b>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+**⭐ From [Gagandeeprai](https://github.com/Gagandeeprai)**
+
+**Thanks for visiting! Let's build something amazing together 🚀**
+
+</div>
