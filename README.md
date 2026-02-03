@@ -1,76 +1,79 @@
-<h1 align="center">Gagandeep Rai</h1>
+<h1 align="center">Gagandeeprai</h1>
 <h3 align="center">ISE Undergrad | Systems Programming Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/gagandeeprai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:gagandeepputtur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <br>
 
-## 👨‍💻 About Me
+<h2 align="center"><em>About Me</em></h2>
 
-```typescript
-const gagandeep = {
-  location: "India 🇮🇳",
-  education: "Information Science Engineering Student",
-  currentFocus: ["Next.js 16", "React 19", "Systems Programming in C"],
-  interests: ["Full Stack Web Dev", "ML & AI", "Low-Level Systems", "Open Source"],
-  philosophy: "Build, Learn, Iterate, Repeat",
-  funFact: "Turning coffee into code since 2023 ☕"
-};
-```
+<div align="center">
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="150" align="right" style="margin-right: 50px;" />
+
+<p align="left" style="margin-left: 50px;">
+  📍 <b>Location:</b> India 🇮🇳<br/>
+  🎓 <b>Education:</b> Information Science Engineering Student<br/>
+  🔭 <b>Current Focus:</b> Next.js 16, React 19, Systems Programming in C<br/>
+  💻 <b>Interests:</b> Full Stack Web Dev, ML & AI, Low-Level Systems, Open Source<br/>
+  ☕ <b>Fun Fact:</b> Turning coffee into code since 2023<br/>
+  🚀 <b>Philosophy:</b> Build, Learn, Iterate, Repeat
+</p>
+</div>
+<br clear="all" />
 
 <br>
 
-## 🛠️ Tech Stack
+<h2 align="center"><em>Technologies</em></h2>
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-### Frontend Development
-<p>
+<h3 align="center">Frontend Development</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-### Backend & ML
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<h3 align="center">Backend & ML</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <br>
 
-## 🚀 Featured Projects
+<h2 align="center"><em>Featured Projects</em></h2>
 
 <table>
 <tr>
@@ -158,20 +161,22 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 <br>
 
-## 📊 GitHub Statistics
+<h2 align="center"><em>Statistics</em></h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagandeeprai&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="180" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagandeeprai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gagandeeprai&theme=dark&background=000000&hide_border=false&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff)
+
+<br/>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Gagandeeprai&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
+</div>
 
 <br>
 
-## 🤝 Let's Connect!
+<h2 align="center"><em>Let's Connect!</em></h2>
 
 <p align="center">
   <b>Open to collaborations, interesting projects, and tech discussions!</b>
@@ -179,24 +184,22 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 <p align="center">
   <a href="https://linkedin.com/in/gagandeeprai" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:gagandeepputtur@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Gagandeeprai" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gagandeeprai&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Gagandeeprai&label=Profile%20Views&color=000000&style=flat-square" />
 </p>
-
-<br>
 
 <p align="center">
   <b>⭐ From <a href="https://github.com/Gagandeeprai">Gagandeeprai</a></b><br/>
