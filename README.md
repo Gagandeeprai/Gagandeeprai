@@ -36,7 +36,9 @@
 
 ## 👨💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/9nKcOUBEhcQAAAAC/cat-roll.gif">
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 ```python
 class Developer:
@@ -51,10 +53,20 @@ class Developer:
         ]
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
-        
+
 me = Developer()
 me.say_hi()
 ```
+    </td>
+    <td valign="top" width="40%">
+      <div align="center">
+        <img src="https://media1.tenor.com/m/9nKcOUBEhcQAAAAC/cat-roll.gif" width="100%" alt="Cat Roll" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br clear="all"/>
 
 <br clear="all"/>
 
