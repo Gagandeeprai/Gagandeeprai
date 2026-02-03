@@ -51,6 +51,7 @@ class Developer:
         ]
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
+        
 me = Developer()
 me.say_hi()
 ```
