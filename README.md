@@ -166,12 +166,12 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 <div align="center">
 
 <img
-  src="https://stats-gagandeeprais-projects.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true"
   height="165"
 />
 
 <img
-  src="https://streak-gagandeeprais-projects.vercel.app/?user=Gagandeeprai&theme=radical&background=0d1117&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=Gagandeeprai&theme=radical&background=0d1117&hide_border=true"
   height="165"
 />
 
