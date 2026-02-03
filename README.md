@@ -1,6 +1,11 @@
-<div align="center">
-  <img src="banner.svg" width="100%" alt="Terminal Banner" />
-</div>
+<pre>
+> whoami
+
+GAGANDEEP RAI
+ISE UNDERGRAD | SYSTEMS PROGRAMMING
+
+> _
+</pre>
 
 <p align="center">
   <a href="https://linkedin.com/in/gagandeeprai" target="_blank" rel="noopener noreferrer">
