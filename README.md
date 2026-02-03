@@ -39,9 +39,7 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-
-```python
-class Developer:
+      <pre><code class="language-python">class Developer:
     def __init__(self):
         self.name = "Gagandeep Rai"
         self.location = "India 🇮🇳"
@@ -55,8 +53,7 @@ class Developer:
         print("Thanks for dropping by! Let's build something amazing together!")
 
 me = Developer()
-me.say_hi()
-```
+me.say_hi()</code></pre>
     </td>
     <td valign="top" width="40%">
       <div align="center">
