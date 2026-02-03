@@ -2,10 +2,10 @@
 <h3 align="center">ISE Undergrad | Systems Programming Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gagandeeprai" target="_blank">
+  <a href="https://linkedin.com/in/gagandeeprai" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:gagandeepputtur@gmail.com">
@@ -165,16 +165,16 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 <div align="center">
 
-<a href="https://github.com/Gagandeeprai">
+  <a href="https://github.com/Gagandeeprai">
   <img src="https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="GitHub Stats" />
 </a>
-<a href="https://github.com/Gagandeeprai">
+  <a href="https://github.com/Gagandeeprai">
   <img src="https://streak-stats.demolab.com/?user=Gagandeeprai&theme=radical&background=0d1117&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Gagandeeprai">
+  <a href="https://github.com/Gagandeeprai">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagandeeprai&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </a>
 
@@ -189,16 +189,16 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gagandeeprai" target="_blank">
+  <a href="https://linkedin.com/in/gagandeeprai" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:gagandeepputtur@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Gagandeeprai" target="_blank">
+  <a href="https://github.com/Gagandeeprai" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
