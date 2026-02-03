@@ -166,10 +166,10 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 <div align="center">
 
 <a href="https://github.com/Gagandeeprai">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=default&bg_color=000000&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Gagandeeprai">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagandeeprai&theme=dark&background=000000&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagandeeprai&theme=dark&background=000000&hide_border=true&stroke=ffffff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </a>
 
 <br/>
