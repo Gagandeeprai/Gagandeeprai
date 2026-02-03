@@ -165,18 +165,22 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 <div align="center">
 
-<a href="https://github.com/Gagandeeprai">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Gagandeeprai">
-  <img src="https://streak-stats.demolab.com/?user=Gagandeeprai&theme=radical&background=0d1117&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true"
+  height="165"
+/>
 
-<br/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Gagandeeprai&theme=radical&background=0d1117&hide_border=true"
+  height="165"
+/>
 
-<a href="https://github.com/Gagandeeprai">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagandeeprai&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</a>
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Gagandeeprai&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+  width="100%"
+/>
 
 </div>
 
