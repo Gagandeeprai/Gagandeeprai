@@ -165,17 +165,28 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 <div align="center">
 
+<!-- GitHub Stats using anuraghazra's service -->
 <a href="https://github.com/Gagandeeprai">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Gagandeeprai">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagandeeprai&theme=dark&background=000000&hide_border=true&stroke=ffffff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="GitHub Stats" height="180em" />
 </a>
 
-<br/>
-
+<!-- Streak Stats -->
 <a href="https://github.com/Gagandeeprai">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagandeeprai&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=Gagandeeprai&theme=radical&background=0d1117&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" height="180em" />
+</a>
+
+<br/><br/>
+
+<!-- Top Languages -->
+<a href="https://github.com/Gagandeeprai">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gagandeeprai&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<!-- Profile Summary Card -->
+<a href="https://github.com/Gagandeeprai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagandeeprai&theme=github_dark" width="100%" alt="Profile Summary" />
 </a>
 
 </div>
