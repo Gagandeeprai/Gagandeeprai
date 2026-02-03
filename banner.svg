@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320">
+  <!-- Background: flat near-black -->
+  <rect width="1280" height="320" fill="#0e0e0e" />
+  
+  <!-- Subtle noise/grain texture (optional, simplified as low opacity static pattern or just omitted for pure CSS-likeness) -->
+  <filter id="noise">
+    <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" stitchTiles="stitch" />
+    <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.05 0" />
+  </filter>
+  <rect width="100%" height="100%" filter="url(#noise)" opacity="0.5" />
+
+  <!-- Styles -->
+  <style>
+    .main-text {
+      font-family: 'Courier New', Courier, monospace;
+      fill: #e8e8e8;
+      font-size: 56px;
+      letter-spacing: -2px;
+      font-weight: bold;
+    }
+    .sub-text {
+      font-family: 'Courier New', Courier, monospace;
+      fill: #e8e8e8;
+      font-size: 24px;
+      letter-spacing: 1px;
+      opacity: 0.7;
+    }
+    .prompt {
+      font-family: 'Courier New', Courier, monospace;
+      fill: #e8e8e8;
+      font-size: 20px;
+      opacity: 0.5;
+    }
+    .separator {
+      stroke: #e8e8e8;
+      stroke-width: 1;
+      opacity: 0.3;
+    }
+  </style>
+
+  <!-- Typography -->
+  <!-- Slightly left of center. Center x=640. Let's try x=480 for "slightly left" -->
+  <text x="350" y="140" class="main-text">GAGANDEEP RAI</text>
+  
+  <line x1="350" y1="170" x2="850" y2="170" class="separator" />
+  
+  <text x="350" y="210" class="sub-text">ISE UNDERGRAD | SYSTEMS PROGRAMMING</text>
+
+  <!-- Prompt in bottom-left -->
+  <text x="30" y="290" class="prompt">&gt; _</text>
+</svg>

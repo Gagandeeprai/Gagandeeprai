@@ -1,5 +1,6 @@
-<h1 align="center">Gagandeeprai</h1>
-<h3 align="center">ISE Undergrad | Systems Programming Enthusiast</h3>
+<div align="center">
+  <img src="banner.svg" width="100%" alt="Terminal Banner" />
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/gagandeeprai" target="_blank" rel="noopener noreferrer">
