@@ -161,26 +161,34 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 
 <br>
 
-<h2 align="center"><em>Statistics</em></h2>
+<h2 align="center"><em>📊 GitHub Statistics</em></h2>
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Gagandeeprai&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true"
-  height="165"
-/>
+<!-- Using GitHub Profile Summary Cards - Most Reliable Service -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagandeeprai&theme=tokyonight" alt="Contribution Graph"/>
 
-<img
-  src="https://streak-stats.demolab.com/?user=Gagandeeprai&theme=radical&background=0d1117&hide_border=true"
-  height="165"
-/>
+</div>
 
-<br/><br/>
+<div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Gagandeeprai&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-  width="100%"
-/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gagandeeprai&theme=tokyonight" alt="GitHub Stats"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gagandeeprai&theme=tokyonight" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gagandeeprai&theme=tokyonight" alt="Repos per Language"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gagandeeprai&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+
+</div>
+
+<div align="center">
+<br/>
+
+<!-- Using Reliable Streak Service -->
+<img src="https://streak-stats.demolab.com?user=Gagandeeprai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
 </div>
 
