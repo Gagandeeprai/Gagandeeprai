@@ -44,21 +44,13 @@ class Developer:
         self.name = "Gagandeep Rai"
         self.location = "India 🇮🇳"
         self.education = "Information Science Engineering"
-        self.current_focus = [
-            "Next.js 16",
-            "React 19", 
-            "Systems Programming in C"
-        ]
         self.interests = [
-            "Full Stack Web Development",
             "Machine Learning & AI",
             "Low-Level Systems",
             "Open Source Contributions"
         ]
-        
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
-
 me = Developer()
 me.say_hi()
 ```
