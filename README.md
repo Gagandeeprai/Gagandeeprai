@@ -2,10 +2,10 @@
 <h3 align="center">ISE Undergrad | Systems Programming Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gagandeeprai" target="_blank">
+  <a href="https://linkedin.com/in/gagandeeprai" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:gagandeepputtur@gmail.com">
@@ -193,16 +193,16 @@ A sleek, modern portfolio website built with **Next.js 16** and **Framer Motion*
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gagandeeprai" target="_blank">
+  <a href="https://linkedin.com/in/gagandeeprai" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-gagandeeprai.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:gagandeepputtur@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Gagandeeprai" target="_blank">
+  <a href="https://github.com/Gagandeeprai" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
