@@ -146,23 +146,23 @@ React • Vite • Chrome Extension API
 <td width="50%" valign="top">
 
 <div align="center">
-<h3>⚡ CLI Antivirus</h3>
+<h3>🧩 Terminal Tetris</h3>
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gagandeeprai/cli-antivirus)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gagandeeprai/terminal-tetris)
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-**High-Performance Multithreaded File Scanner**
+**Classic Tetris in the Linux Terminal**
 
-A blazingly fast file scanner engineered in pure **C** for maximum performance. Features a custom **Ncurses** terminal UI and optimized multithreaded scanning using **Pthreads** for efficient resource utilization.
+A fast-paced **Tetris clone written in C using Ncurses**, bringing the classic arcade experience directly into the terminal. Features real-time keyboard controls, collision detection, scoring, and smooth gameplay rendered entirely in the terminal UI.
 
 </div>
 
 **🔥 Key Features:**
-- 🚄 Multithreaded scanning engine
-- 🎨 Custom TUI interface
-- 💾 Minimal resource footprint
-- 🌆 Retrowave aesthetics
+- 🎮 Classic Tetris gameplay
+- ⚡ Real-time keyboard input
+- 🧱 Collision detection & piece rotation
+- 📊 Score tracking system
 
 **💡 Tech Stack:**
 ```
