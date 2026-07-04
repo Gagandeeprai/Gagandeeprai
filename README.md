@@ -237,28 +237,12 @@ Tailwind CSS • Framer Motion
 
 ---
 
-<h2 align="center"><em>📊 GitHub Statistics</em></h2>
-
-<div align="center">
-
-<!-- Using Local SVG Profile Analytics -->
-<img width="100%" src="./assets/custom-contributions.svg" alt="Contribution Graph"/>
-
-</div>
-
-<div align="center">
-
-<img height="200px" src="./assets/custom-stats.svg" alt="GitHub Stats"/>
-<img height="200px" src="./assets/custom-languages.svg" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img height="200px" src="./assets/custom-streak.svg" alt="GitHub Streak"/>
-<img height="200px" src="./assets/custom-activity.svg" alt="Productive Time"/>
-
-</div>
+# 📊 GitHub Stats:
+![](./assets/custom-stats.svg)<br/>
+![](./assets/custom-streak.svg)<br/>
+![](./assets/custom-languages.svg)<br/>
+![](./assets/custom-contributions.svg)<br/>
+![](./assets/custom-activity.svg)
 
 ---
 
@@ -285,7 +269,9 @@ Tailwind CSS • Framer Motion
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Gagandeeprai&label=Profile%20Views&color=000000&style=flat-square" alt="Profile views" />
+[![](https://komarev.com/ghpvc/?username=gagandeeprai&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br><br>
 
