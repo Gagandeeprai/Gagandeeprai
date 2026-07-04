@@ -54,9 +54,9 @@
 me = Developer()
 me.say_hi()</code></pre>
     </td>
-    <td valign="top" width="40%">
+    <td width="30%" align="center" valign="middle">
       <div align="center">
-        <img src="https://media1.tenor.com/m/9nKcOUBEhcQAAAAC/cat-roll.gif" width="100%" alt="Cat Roll" />
+        <img src="https://media1.tenor.com/m/9nKcOUBEhcQAAAAC/cat-roll.gif" width="120%" alt="Cat Roll" />
       </div>
     </td>
   </tr>
