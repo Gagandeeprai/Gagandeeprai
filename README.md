@@ -241,31 +241,22 @@ Tailwind CSS • Framer Motion
 
 <div align="center">
 
-<!-- Using GitHub Profile Summary Cards - Most Reliable Service -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gagandeeprai&theme=tokyonight" alt="Contribution Graph"/>
+<!-- Using Local SVG Profile Analytics -->
+<img width="100%" src="./assets/custom-contributions.svg" alt="Contribution Graph"/>
 
 </div>
 
 <div align="center">
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gagandeeprai&theme=tokyonight" alt="GitHub Stats"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gagandeeprai&theme=tokyonight" alt="Top Languages"/>
+<img height="200px" src="./assets/custom-stats.svg" alt="GitHub Stats"/>
+<img height="200px" src="./assets/custom-languages.svg" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gagandeeprai&theme=tokyonight" alt="Repos per Language"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gagandeeprai&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-
-</div>
-
-<div align="center">
-<br/>
-
-<!-- Using Reliable Streak Service -->
-<img src="https://streak-stats.demolab.com?user=Gagandeeprai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_bust=1" alt="GitHub Streak"/>
-
+<img height="200px" src="./assets/custom-streak.svg" alt="GitHub Streak"/>
+<img height="200px" src="./assets/custom-activity.svg" alt="Productive Time"/>
 
 </div>
 

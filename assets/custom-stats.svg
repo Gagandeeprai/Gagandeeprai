@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+  <style>
+    svg {
+            background-color: transparent;
+          }
+          .card-bg {
+            fill: #0d1117;
+            stroke: #30363d;
+            stroke-width: 1px;
+          }
+          .title {
+            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-weight: 600;
+            font-size: 16px;
+            fill: #58a6ff;
+            animation: fadeIn 0.8s ease-in-out;
+          }
+          .text-main {
+            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-size: 13px;
+            fill: #c9d1d9;
+          }
+          .text-mute {
+            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-size: 11px;
+            fill: #8b949e;
+          }
+          .mono {
+            font-family: "JetBrains Mono", SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+          }
+          .bold {
+            font-weight: 700;
+          }
+          .fade-in {
+            animation: fadeIn 0.6s ease-in-out forwards;
+          }
+          .grow-bar {
+            transform-origin: left;
+            animation: scaleX 0.8s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+          }
+          @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+          }
+          @keyframes scaleX {
+            from { transform: scaleX(0); }
+            to { transform: scaleX(1); }
+          }
+  </style>
+  <!-- Card Container -->
+  <rect class="card-bg" x="0.5" y="0.5" width="494" height="194" rx="8" />
+  
+  <!-- Header Title -->
+  <g transform="translate(25, 35)">
+    <svg class="title" x="0" y="-12" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25a.25.25 0 11-.5 0 .25.25 0 01.5 0z" fill="currentColor"/></svg>
+    <text class="title" x="25" y="5">Gagandeep Rai&apos;s GitHub Stats</text>
+  </g>
+  
+  <!-- Inner Canvas -->
+  <g transform="translate(25, 55)">
+    
+  <!-- Left column -->
+  
+    <g transform="translate(10, 10)">
+      <svg class="text-mute" x="0" y="-12" viewBox="0 0 16 16" width="14" height="14" fill="currentColor">
+        <path d="M10.8 2.5a8.3 8.3 0 100 16.6 8.3 8.3 0 000-16.6zM2.5 10.8c0-4.6 3.7-8.3 8.3-8.3 1.9 0 3.7.6 5.1 1.8L4.3 15.9a8.2 8.2 0 01-1.8-5.1zm8.3 8.3a8.2 8.2 0 01-5.1-1.8l11.6-11.6c1.2 1.4 1.8 3.2 1.8 5.1 0 4.6-3.7 8.3-8.3 8.3z" fill="currentColor"/>
+      </svg>
+      <text class="text-main" x="22" y="0">Total Commits:</text>
+      <text class="text-main bold mono" x="180" y="0" text-anchor="start">1.6k</text>
+    </g>
+    <g transform="translate(10, 40)">
+      <svg class="text-mute" x="0" y="-12" viewBox="0 0 16 16" width="14" height="14" fill="currentColor">
+        <path d="M7.177 3.007L7.175 3h-.002a2.25 2.25 0 10-1.673 0h-.002l-.002.007v7.986l-.002.007a2.25 2.25 0 101.678 0v-7.99zM4.75 2.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zm0 11.5a.75.75 0 111.5 0 .75.75 0 01-1.5 0zm8.5-6a2.25 2.25 0 10-1.673 0h-.002l-.002.007v3.236a.75.75 0 001.5 0V7.757h.002z" fill="currentColor"/>
+      </svg>
+      <text class="text-main" x="22" y="0">Total PRs:</text>
+      <text class="text-main bold mono" x="180" y="0" text-anchor="start">89</text>
+    </g>
+    <g transform="translate(10, 70)">
+      <svg class="text-mute" x="0" y="-12" viewBox="0 0 16 16" width="14" height="14" fill="currentColor">
+        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z" fill="currentColor"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z" fill="currentColor"/>
+      </svg>
+      <text class="text-main" x="22" y="0">Total Issues:</text>
+      <text class="text-main bold mono" x="180" y="0" text-anchor="start">43</text>
+    </g>
+  
+  <!-- Right column -->
+  
+    <g transform="translate(240, 10)">
+      <svg class="text-mute" x="0" y="-12" viewBox="0 0 16 16" width="14" height="14" fill="currentColor">
+        <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z" fill="currentColor"/>
+      </svg>
+      <text class="text-main" x="22" y="0">Stars Received:</text>
+      <text class="text-main bold mono" x="180" y="0" text-anchor="start">45</text>
+    </g>
+    <g transform="translate(240, 40)">
+      <svg class="text-mute" x="0" y="-12" viewBox="0 0 16 16" width="14" height="14" fill="currentColor">
+        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25a.25.25 0 11-.5 0 .25.25 0 01.5 0z" fill="currentColor"/>
+      </svg>
+      <text class="text-main" x="22" y="0">Public Repositories:</text>
+      <text class="text-main bold mono" x="180" y="0" text-anchor="start">12</text>
+    </g>
+    <g transform="translate(240, 70)">
+      <svg class="text-mute" x="0" y="-12" viewBox="0 0 16 16" width="14" height="14" fill="currentColor">
+        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zM12 5a4 4 0 11-8 0 4 4 0 018 0zm-7 7a3 3 0 00-3 3 .75.75 0 01-1.5 0 4.5 4.5 0 014.5-4.5h6a4.5 4.5 0 014.5 4.5.75.75 0 01-1.5 0 3 3 0 00-3-3H5z" fill="currentColor"/>
+      </svg>
+      <text class="text-main" x="22" y="0">Followers:</text>
+      <text class="text-main bold mono" x="180" y="0" text-anchor="start">142</text>
+    </g>
+  
+  </g>
+</svg>

@@ -1,0 +1,71 @@
+name: Update Profile Analytics
+
+on:
+  schedule:
+    # Daily update at 00:00 UTC
+    - cron: '0 0 * * *'
+    # Weekly full rebuild on Sundays at 01:00 UTC
+    - cron: '0 1 * * 0'
+  workflow_dispatch:
+    inputs:
+      rebuild:
+        description: 'Perform a clean rebuild (ignore cache)'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-analytics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Harvester (Fetch Data)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          TIMEZONE_OFFSET: "5.5" # Default to Indian Standard Time (UTC+5:30)
+        run: |
+          # Determine if a full rebuild is requested
+          # Triggered by Sunday cron, or manual rebuild checkbox
+          IF_REBUILD=""
+          if [ "${{ github.event.schedule }}" = "0 1 * * 0" ] || [ "${{ github.event.inputs.rebuild }}" = "true" ]; then
+            IF_REBUILD="--rebuild"
+            echo "Executing full rebuild of analytics database..."
+          fi
+          npm run fetch -- $IF_REBUILD
+
+      - name: Run SVG Generator
+        env:
+          TIMEZONE_OFFSET: "5.5"
+        run: npm run generate
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Stage generated SVGs and database cache changes
+          git add assets/ cache/
+          
+          # Only commit if git diff shows changes staged
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: auto-update profile analytics cards [skip ci]"
+            git push origin main
+          else
+            echo "No changes detected in SVGs or cache database. Skipping commit."
+          fi

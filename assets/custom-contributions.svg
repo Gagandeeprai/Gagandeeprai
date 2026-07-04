@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="160" viewBox="0 0 820 160" fill="none">
+  <style>
+    svg {
+            background-color: transparent;
+          }
+          .card-bg {
+            fill: #0d1117;
+            stroke: #30363d;
+            stroke-width: 1px;
+          }
+          .title {
+            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-weight: 600;
+            font-size: 16px;
+            fill: #58a6ff;
+            animation: fadeIn 0.8s ease-in-out;
+          }
+          .text-main {
+            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-size: 13px;
+            fill: #c9d1d9;
+          }
+          .text-mute {
+            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-size: 11px;
+            fill: #8b949e;
+          }
+          .mono {
+            font-family: "JetBrains Mono", SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+          }
+          .bold {
+            font-weight: 700;
+          }
+          .fade-in {
+            animation: fadeIn 0.6s ease-in-out forwards;
+          }
+          .grow-bar {
+            transform-origin: left;
+            animation: scaleX 0.8s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+          }
+          @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+          }
+          @keyframes scaleX {
+            from { transform: scaleX(0); }
+            to { transform: scaleX(1); }
+          }
+  </style>
+  <!-- Card Container -->
+  <rect class="card-bg" x="0.5" y="0.5" width="819" height="159" rx="8" />
+  
+  <!-- Header Title -->
+  <g transform="translate(25, 35)">
+    <text class="title" x="0" y="5">Contributions Calendar</text>
+  </g>
+  
+  <!-- Inner Canvas -->
+  <g transform="translate(25, 55)">
+    <!-- Contribution Grid Calendar -->
+    <g transform="translate(40, 25)">
+      <text class="text-mute" x="0" y="-6">Jun</text>
+      <text class="text-mute" x="-28" y="24">Mon</text>
+      <text class="text-mute" x="-28" y="52">Wed</text>
+      <text class="text-mute" x="-28" y="80">Fri</text>
+      <rect class="fade-in" x="0" y="0" width="10" height="10" rx="2" fill="#006d32"
+        title="2026-06-28: 4 contributions">
+          <title>2026-06-28: 4 contributions</title>
+        </rect>
+      <rect class="fade-in" x="0" y="14" width="10" height="10" rx="2" fill="#0e4429"
+        title="2026-06-29: 1 contributions">
+          <title>2026-06-29: 1 contributions</title>
+        </rect>
+      <rect class="fade-in" x="0" y="28" width="10" height="10" rx="2" fill="#26a641"
+        title="2026-06-30: 6 contributions">
+          <title>2026-06-30: 6 contributions</title>
+        </rect>
+      <rect class="fade-in" x="0" y="42" width="10" height="10" rx="2" fill="#006d32"
+        title="2026-07-01: 3 contributions">
+          <title>2026-07-01: 3 contributions</title>
+        </rect>
+      <rect class="fade-in" x="0" y="56" width="10" height="10" rx="2" fill="#0e4429"
+        title="2026-07-02: 2 contributions">
+          <title>2026-07-02: 2 contributions</title>
+        </rect>
+      <rect class="fade-in" x="0" y="70" width="10" height="10" rx="2" fill="#39d353"
+        title="2026-07-03: 7 contributions">
+          <title>2026-07-03: 7 contributions</title>
+        </rect>
+      <rect class="fade-in" x="0" y="84" width="10" height="10" rx="2" fill="#26a641"
+        title="2026-07-04: 5 contributions">
+          <title>2026-07-04: 5 contributions</title>
+        </rect>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+  <style>
+    svg {
+            background-color: transparent;
+          }
+          .card-bg {
+            fill: #0d1117;
+            stroke: #30363d;
+            stroke-width: 1px;
+          }
+          .title {
+            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-weight: 600;
+            font-size: 16px;
+            fill: #58a6ff;
+            animation: fadeIn 0.8s ease-in-out;
+          }
+          .text-main {
+            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-size: 13px;
+            fill: #c9d1d9;
+          }
+          .text-mute {
+            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-size: 11px;
+            fill: #8b949e;
+          }
+          .mono {
+            font-family: "JetBrains Mono", SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+          }
+          .bold {
+            font-weight: 700;
+          }
+          .fade-in {
+            animation: fadeIn 0.6s ease-in-out forwards;
+          }
+          .grow-bar {
+            transform-origin: left;
+            animation: scaleX 0.8s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+          }
+          @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+          }
+          @keyframes scaleX {
+            from { transform: scaleX(0); }
+            to { transform: scaleX(1); }
+          }
+  </style>
+  <!-- Card Container -->
+  <rect class="card-bg" x="0.5" y="0.5" width="494" height="194" rx="8" />
+  
+  <!-- Header Title -->
+  <g transform="translate(25, 35)">
+    <text class="title" x="0" y="5">Most Used Languages</text>
+  </g>
+  
+  <!-- Inner Canvas -->
+  <g transform="translate(25, 55)">
+    
+    <g transform="translate(0, 0)">
+      <text class="text-main" x="0" y="0">TypeScript</text>
+      <text class="text-mute mono" x="440" y="0" text-anchor="end">45.0%</text>
+      <rect x="0" y="8" width="440" height="6" rx="3" fill="#1f242c" />
+      <rect class="grow-bar" x="0" y="8" width="198.0" height="6" rx="3" fill="#3178c6" />
+    </g>
+
+    <g transform="translate(0, 22)">
+      <text class="text-main" x="0" y="0">Python</text>
+      <text class="text-mute mono" x="440" y="0" text-anchor="end">35.0%</text>
+      <rect x="0" y="8" width="440" height="6" rx="3" fill="#1f242c" />
+      <rect class="grow-bar" x="0" y="8" width="154.0" height="6" rx="3" fill="#3572A5" />
+    </g>
+
+    <g transform="translate(0, 44)">
+      <text class="text-main" x="0" y="0">JavaScript</text>
+      <text class="text-mute mono" x="440" y="0" text-anchor="end">12.0%</text>
+      <rect x="0" y="8" width="440" height="6" rx="3" fill="#1f242c" />
+      <rect class="grow-bar" x="0" y="8" width="52.8" height="6" rx="3" fill="#f1e05a" />
+    </g>
+
+    <g transform="translate(0, 66)">
+      <text class="text-main" x="0" y="0">C</text>
+      <text class="text-mute mono" x="440" y="0" text-anchor="end">5.0%</text>
+      <rect x="0" y="8" width="440" height="6" rx="3" fill="#1f242c" />
+      <rect class="grow-bar" x="0" y="8" width="22.0" height="6" rx="3" fill="#555555" />
+    </g>
+
+    <g transform="translate(0, 88)">
+      <text class="text-main" x="0" y="0">HTML</text>
+      <text class="text-mute mono" x="440" y="0" text-anchor="end">3.0%</text>
+      <rect x="0" y="8" width="440" height="6" rx="3" fill="#1f242c" />
+      <rect class="grow-bar" x="0" y="8" width="13.2" height="6" rx="3" fill="#e34c26" />
+    </g>
+  </g>
+</svg>

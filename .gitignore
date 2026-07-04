@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# TypeScript Build
+dist/
+
+# System Files
+.DS_Store
+Thumbs.db

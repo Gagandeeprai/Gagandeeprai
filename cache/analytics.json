@@ -1,0 +1,81 @@
+{
+  "lastUpdated": "2026-07-04T15:00:00.000Z",
+  "user": {
+    "name": "Gagandeep Rai",
+    "login": "Gagandeeprai",
+    "followers": 142,
+    "following": 53,
+    "starsGiven": 120,
+    "starsReceived": 45,
+    "publicRepos": 12,
+    "totalCommits": 1564,
+    "totalIssues": 43,
+    "totalPRs": 89
+  },
+  "languages": [
+    { "name": "TypeScript", "color": "#3178c6", "bytes": 450000, "percentage": 45.0 },
+    { "name": "Python", "color": "#3572A5", "bytes": 350000, "percentage": 35.0 },
+    { "name": "JavaScript", "color": "#f1e05a", "bytes": 120000, "percentage": 12.0 },
+    { "name": "C", "color": "#555555", "bytes": 50000, "percentage": 5.0 },
+    { "name": "HTML", "color": "#e34c26", "bytes": 30000, "percentage": 3.0 }
+  ],
+  "contributions": {
+    "2026-06-01": 2,
+    "2026-06-02": 5,
+    "2026-06-03": 1,
+    "2026-06-04": 0,
+    "2026-06-05": 3,
+    "2026-06-06": 4,
+    "2026-06-07": 8,
+    "2026-06-08": 1,
+    "2026-06-09": 3,
+    "2026-06-10": 2,
+    "2026-06-11": 5,
+    "2026-06-12": 1,
+    "2026-06-13": 0,
+    "2026-06-14": 4,
+    "2026-06-15": 2,
+    "2026-06-16": 6,
+    "2026-06-17": 3,
+    "2026-06-18": 9,
+    "2026-06-19": 1,
+    "2026-06-20": 4,
+    "2026-06-21": 0,
+    "2026-06-22": 3,
+    "2026-06-23": 2,
+    "2026-06-24": 5,
+    "2026-06-25": 1,
+    "2026-06-26": 0,
+    "2026-06-27": 2,
+    "2026-06-28": 4,
+    "2026-06-29": 1,
+    "2026-06-30": 6,
+    "2026-07-01": 3,
+    "2026-07-02": 2,
+    "2026-07-03": 7,
+    "2026-07-04": 5
+  },
+  "calendar": {
+    "weeks": [
+      {
+        "contributionDays": [
+          { "date": "2026-06-28", "contributionCount": 4, "contributionLevel": 2 },
+          { "date": "2026-06-29", "contributionCount": 1, "contributionLevel": 1 },
+          { "date": "2026-06-30", "contributionCount": 6, "contributionLevel": 3 },
+          { "date": "2026-07-01", "contributionCount": 3, "contributionLevel": 2 },
+          { "date": "2026-07-02", "contributionCount": 2, "contributionLevel": 1 },
+          { "date": "2026-07-03", "contributionCount": 7, "contributionLevel": 4 },
+          { "date": "2026-07-04", "contributionCount": 5, "contributionLevel": 3 }
+        ]
+      }
+    ],
+    "months": [
+      { "name": "Jun", "year": 2026, "firstDay": "2026-06-28", "totalWeeks": 1 },
+      { "name": "Jul", "year": 2026, "firstDay": "2026-07-01", "totalWeeks": 1 }
+    ]
+  },
+  "productiveTime": {
+    "0": 0, "1": 0, "2": 0, "3": 0, "4": 0, "5": 0, "6": 0, "7": 0, "8": 2, "9": 10, "10": 15, "11": 3, "12": 0,
+    "13": 0, "14": 8, "15": 12, "16": 18, "17": 5, "18": 1, "19": 0, "20": 4, "21": 6, "22": 2, "23": 0
+  }
+}

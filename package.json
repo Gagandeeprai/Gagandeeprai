@@ -1,0 +1,21 @@
+{
+  "name": "github-profile-analytics",
+  "version": "1.0.0",
+  "description": "Self-hosted GitHub analytics SVG card generator",
+  "main": "scripts/generate.ts",
+  "type": "module",
+  "scripts": {
+    "fetch": "tsx scripts/fetch.ts",
+    "generate": "tsx scripts/generate.ts",
+    "update": "npm run fetch && npm run generate"
+  },
+  "dependencies": {
+    "@octokit/graphql": "^8.2.1",
+    "@octokit/rest": "^21.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}
