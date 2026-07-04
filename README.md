@@ -240,9 +240,7 @@ Tailwind CSS • Framer Motion
 # 📊 GitHub Stats:
 ![](./assets/custom-stats.svg)<br/>
 ![](./assets/custom-streak.svg)<br/>
-![](./assets/custom-languages.svg)<br/>
-![](./assets/custom-contributions.svg)<br/>
-![](./assets/custom-activity.svg)
+![](./assets/custom-languages.svg)
 
 ---
 
