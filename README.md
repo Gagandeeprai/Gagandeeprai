@@ -240,7 +240,7 @@ Tailwind CSS • Framer Motion
 <div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=gagandeeprai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=gagandeeprai&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gagandeeprai&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gagandeeprai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
